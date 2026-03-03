@@ -1,3 +1,8 @@
 export default function Page() {
-  return <div className="text-xl font-bold">Users Page</div>;
+  const isActive = false; // Thay đổi giá trị này để kiểm tra active state
+  return (
+    <h1 className="text-xl font-bold">
+      {isActive ? "Users Page" : "Inactive Users Page"}
+    </h1>
+  );
 }

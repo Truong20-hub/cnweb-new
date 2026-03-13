@@ -1,4 +1,4 @@
-import ThanhDieuHuong from "../components/ThanhDieuHuong";
+import ThanhDieuHuong from "../components_HS/ThanhDieuHuong";
 import PhanDau from "../components/PhanDau";
 import NoiDung from "../components/NoiDung";
 

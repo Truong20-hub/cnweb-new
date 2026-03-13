@@ -1,4 +1,4 @@
-import ThanhDieuHuong from "@/app/components/ThanhDieuHuong";
+import ThanhDieuHuong from "@/app/components_HS/ThanhDieuHuong";
 import PhanDau from "@/app/components/PhanDau";
 import NoiDung from "@/app/components/NoiDung";
 export default function Page() {
